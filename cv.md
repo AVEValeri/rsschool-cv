@@ -9,6 +9,7 @@
 * __Email:__ valerande@gmail.com
 * __Github:__ @AVEValeri
 * __Telegram:__ @valerande
+
 ---
 
 ## About Me 
@@ -24,8 +25,8 @@ I'm 28 years old. I'm an electrical engeneer by education. I managed ti work bot
 * jQuery
 * Git/GitHub
 * Figma/Photoshop
----
 
+---
 ## Code Examples:
 
 ```
@@ -48,13 +49,15 @@ function tableSearch(table, input) {
   });
 }
 ```
-***
 
+---
 ## Educaton
 
 * __Siberian Federal University__
     + Mining engineer
+
 ---
 ## Languages
+
 * __Russian__ - Native
 * __English__ - A2
