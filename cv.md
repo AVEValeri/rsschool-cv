@@ -1,20 +1,23 @@
 # Valeri Andeev
+
+### Front-End Developer
 ---
-Frontend Developer
-***
+
 ## Contacts
+* __Location:__ Krasnoyarsk, Russia
+* __Phone:__ +7-999-443-07-60
+* __Email:__ valerande@gmail.com
+* __Github:__ @AVEValeri
+* __Telegram:__ @valerande
 ---
-__*Phone:__ +7-999-443-07-60
-__*Email:__ valerande@gmail.com
-__*Github:__ @AVEValeri
-__*Telegram:__ @valerande
----
+
 ## About Me 
----
+
 I'm 28 years old. I'm an electrical engeneer by education. I managed ti work both in the restaurant business and in a mining enterprise. At my current job, being a technical support employee, I was offered to retrain as a front-end developer to create a company service.  At the moment, I am a front-end developer in the company, but I feel thet the technical knowledge is not enough to perform quite difficult tasks. For this reason, I decicec to take a course at th RS School in order to fill in the gaps in kniwledge.
+
 ---
 ## Skills and Proficiency:
----
+
 * HTML5
 * CSS3 (SASS/SCSS)
 * JS Basic (ES5, ES6+)
@@ -22,8 +25,9 @@ I'm 28 years old. I'm an electrical engeneer by education. I managed ti work bot
 * Git/GitHub
 * Figma/Photoshop
 ---
+
 ## Code Examples:
---- 
+
 ```
 function tableSearch(table, input) {
 
@@ -45,10 +49,11 @@ function tableSearch(table, input) {
 }
 ```
 ***
+
 ## Educaton
----
-* Siberian Federal University
-    + Mining engeneer
+
+* __Siberian Federal University__
+    + Mining engineer
 ---
 ## Languages
 * __Russian__ - Native
